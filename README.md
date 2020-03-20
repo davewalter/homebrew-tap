@@ -6,7 +6,7 @@ To install a package:
 
 ```
 brew tap cloudfoundry/tap
-brew install <cf-cli | bosh-init | bosh-cli | credhub-cli | bbl | bbr | uaa-cli>
+brew install <cf-cli | bosh-init | bosh-cli | credhub-cli | bbl | bbr | uaa-cli | smith-cli>
 ```
 
 Available packages:
@@ -20,6 +20,7 @@ Available packages:
 | bbl         | The official bosh-bootloader CLI                           |
 | bbr         | The official BOSH Backup and Restore CLI                   |
 | uaa-cli     | The official new UAA CLI (alpha)                           |
+| smith-cli   | The official Smith CLI (alpha)                             |
 
 Want to change something?
  1. Make a PR
